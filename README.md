@@ -54,7 +54,7 @@ My GitHub repositories represent my growth as a developer. Every project is a le
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f05135/)  
-[![Wingspedia](https://img.shields.io/badge/Wingspedia-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://wingspedia.com)
+[![Wingspedia](https://img.shields.io/badge/Wingspedia-5E17EB?style=for-the-badge&logo=&logoColor=white)](https://wingspedia.com)
 
 ---
 
