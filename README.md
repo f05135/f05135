@@ -1,5 +1,7 @@
 ## 🤓 About Me
 
+Hi, my name is Felipe! 
+
 I began my journey with **Python** and later expanded my skill set to **C** during my Electrical Engineering studies. Today, I combine my technical know-how with real-world problem solving in my work and personal projects, including my current adventure with [Wingspedia](https://wingspedia.com).
 
 ---
